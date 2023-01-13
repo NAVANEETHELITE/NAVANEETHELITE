@@ -1,4 +1,5 @@
-public class MyViewModel : INotifyPropertyChanged
+
+   public class MyViewModel : INotifyPropertyChanged
 {
     private List<string> _myArrayList = new List<string>();
     public List<string> MyArrayList
